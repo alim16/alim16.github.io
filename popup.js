@@ -1,3 +1,3 @@
 function displaymsg(){
-alert("still working on");
+alert("apologies in advance for the unrealistic rant :)");
 }
